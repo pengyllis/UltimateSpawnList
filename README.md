@@ -8,4 +8,4 @@ It must be pasted in the `config` folder of your minecraft instance.
 If spawns are not working or not optimal, or if you'd like another seed to be added, just create a new issue or DM me on Discord (Baryllium#3810).
 
 Known issues:
-- the spawn for Zombie Doctor doesn't work, and i don't know why
+- the spawn for Zombie Doctor doesn't work (probably a problem with the mod?)
