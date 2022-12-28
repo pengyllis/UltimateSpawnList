@@ -345,6 +345,12 @@
       "z": -0.5
     },
     {
+      "seed": "166299054058960",
+      "seed_name": "superflat_mac_ws",
+      "x": 134.5,
+      "z": 93.5
+    },
+    {
       "seed": "15061867208",
       "seed_name": "all_nametags",
       "x": 138.5,
